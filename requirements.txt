@@ -1,0 +1,6 @@
+streamlit
+polars
+scikit-learn
+matplotlib
+seaborn
+requests
